@@ -6,21 +6,27 @@
       "skip-tag-prefix": true
     }
   },
-  "changelogSections": {
-    "Features": {
-      "types": ["feat", "feature"]
+  "changelog-sections": [
+    {
+      "type": "feat",
+      "section": "Features"
     },
-    "Bug Fixes": {
-      "types": ["fix"]
+    {
+      "type": "fix",
+      "section": "Bug Fixes"
     },
-    "Performance Improvements": {
-      "types": ["perf"]
+    {
+      "type": "perf",
+      "section": "Performance Improvements"
     },
-    "Refactors": {
-      "types": ["refactor"],
-      "hidden": false  // ✅ 显式关闭 hidden
+    {
+      "type": "docs",
+      "section": "Documentation"
+    },
+    {
+      "type": "refactor",
+      "section": "Code Refactoring"
     }
-  },
+  ],
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
-
