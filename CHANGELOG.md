@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/RicardoRyn/git_hello_world/compare/v0.2.0...v0.3.0) (2025-08-07)
+
+
+### Features
+
+* **a:** aaaaaa ([e17aa24](https://github.com/RicardoRyn/git_hello_world/commit/e17aa241cb595e0fb6bdfc34a6fa9fb922661032))
+
+
+### Bug Fixes
+
+* **a:** aaaaaaaaaaa ([76a5613](https://github.com/RicardoRyn/git_hello_world/commit/76a56137f635dd3bc5455772bb5c288f3aac574a))
+
 ## [0.2.0](https://github.com/RicardoRyn/git_hello_world/compare/v0.1.0...v0.2.0) (2025-08-07)
 
 
