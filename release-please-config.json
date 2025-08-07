@@ -3,7 +3,21 @@
     ".": {
       "release-type": "python",
       "include-component-in-tag": false,
-      "skip-tag-prefix": true
+      "skip-tag-prefix": true,
+      "changelogSections": {
+        "Features": {
+          "types": ["feat"]
+        },
+        "Bug Fixes": {
+          "types": ["fix"]
+        },
+        "Refactors": {
+          "types": ["refactor"]
+        },
+        "Performance Improvements": {
+          "types": ["perf"]
+        }
+      }
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
