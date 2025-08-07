@@ -18,7 +18,7 @@
     },
     "Refactors": {
       "types": ["refactor"],
-      "hidden": false  // ✅ 显式关闭 hidden
+      "hidden": false
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
