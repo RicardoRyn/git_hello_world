@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/RicardoRyn/git_hello_world/compare/v0.1.0...v0.2.0) (2025-08-07)
+
+
+### Features
+
+* **a:** aaaaaaaaaa ([e338271](https://github.com/RicardoRyn/git_hello_world/commit/e33827149fd7ac264739a3d93d9dd871f19c74ec))
+
+
+### Code Refactoring
+
+* **a:** aaaaaaaaaaaaaa ([cbc4f25](https://github.com/RicardoRyn/git_hello_world/commit/cbc4f2503dea5952708fe93920fb57e6aca102b1))
+
 ## 0.1.0 (2025-08-07)
 
 
